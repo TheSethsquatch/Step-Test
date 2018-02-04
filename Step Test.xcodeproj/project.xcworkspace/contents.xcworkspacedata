@@ -2,6 +2,96 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Step Test.xcodeproj">
+      location = "group:Icon-16.png">
+   </FileRef>
+   <FileRef
+      location = "group:Icon-20.png">
+   </FileRef>
+   <FileRef
+      location = "group:Icon-29.png">
+   </FileRef>
+   <FileRef
+      location = "group:Icon-32.png">
+   </FileRef>
+   <FileRef
+      location = "group:Icon-40.png">
+   </FileRef>
+   <FileRef
+      location = "group:Icon-48.png">
+   </FileRef>
+   <FileRef
+      location = "group:Icon-50.png">
+   </FileRef>
+   <FileRef
+      location = "group:Icon-55.png">
+   </FileRef>
+   <FileRef
+      location = "group:Icon-57.png">
+   </FileRef>
+   <FileRef
+      location = "group:Icon-58.png">
+   </FileRef>
+   <FileRef
+      location = "group:Icon-60.png">
+   </FileRef>
+   <FileRef
+      location = "group:Icon-64.png">
+   </FileRef>
+   <FileRef
+      location = "group:Icon-72.png">
+   </FileRef>
+   <FileRef
+      location = "group:Icon-76.png">
+   </FileRef>
+   <FileRef
+      location = "group:Icon-80.png">
+   </FileRef>
+   <FileRef
+      location = "group:Icon-87.png">
+   </FileRef>
+   <FileRef
+      location = "group:Icon-88.png">
+   </FileRef>
+   <FileRef
+      location = "group:Icon-100.png">
+   </FileRef>
+   <FileRef
+      location = "group:Icon-114.png">
+   </FileRef>
+   <FileRef
+      location = "group:Icon-120.png">
+   </FileRef>
+   <FileRef
+      location = "group:Icon-128.png">
+   </FileRef>
+   <FileRef
+      location = "group:Icon-144.png">
+   </FileRef>
+   <FileRef
+      location = "group:Icon-152.png">
+   </FileRef>
+   <FileRef
+      location = "group:Icon-167.png">
+   </FileRef>
+   <FileRef
+      location = "group:Icon-172.png">
+   </FileRef>
+   <FileRef
+      location = "group:Icon-180.png">
+   </FileRef>
+   <FileRef
+      location = "group:Icon-196.png">
+   </FileRef>
+   <FileRef
+      location = "group:Icon-256.png">
+   </FileRef>
+   <FileRef
+      location = "group:Icon-512.png">
+   </FileRef>
+   <FileRef
+      location = "group:Icon-1024.png">
+   </FileRef>
+   <FileRef
+      location = "self:">
    </FileRef>
 </Workspace>
