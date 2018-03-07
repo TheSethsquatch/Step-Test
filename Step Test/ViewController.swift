@@ -165,13 +165,6 @@ class ViewController: UIViewController {
         refreshView()
     }
     
-    deinit {
-        // perform the deinitialization
-        
-        // Remove the notification
-        // [[NSNotificationCenter defaultCenter] removeObserver:self];
-    }
-
     
     func showDateInputDialog(buttonID: String) {
 
@@ -254,6 +247,12 @@ class ViewController: UIViewController {
         self.present(alertController, animated: true, completion: nil)
     }
 
-    
+    deinit {
+        // perform the deinitialization
+        
+        // Remove the notification
+        NotificationCenter.default.removeObserver(self)
+    }
+
 }
 
